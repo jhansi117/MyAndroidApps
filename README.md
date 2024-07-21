@@ -1,2 +1,2 @@
-# MyAndroidApps
-These are the .apk files of the android apps that I developed in my learning journey
+# Unit Converter app
+This is the .apk file of my first android app that I developed
